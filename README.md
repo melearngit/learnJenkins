@@ -3,5 +3,5 @@ sample
 fork
 upstream
 
-branch sample
+branch sample -1
 branch main
